@@ -22,7 +22,8 @@
    pip install selenium
    pip install pandas
    ```
-   
+
+(※ 스크래핑 작동 영상)](https://www.youtube.com/watch?v=NptaBqn4LEI)
    
 ## 결과 
 
