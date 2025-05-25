@@ -31,7 +31,7 @@
     <td align="center"><b>csv 파일</b></td>
   </tr>
     <tr>
-    <td><img src="./images/confusion_matrix.png" width="100%"></td>
+    <td><img src="./images/결과 파일.png" width="100%"></td>
   </tr>
 </table>
 
