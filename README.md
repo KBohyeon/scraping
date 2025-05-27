@@ -114,6 +114,14 @@ Naver Shopping Scraping은 네이버 스토어에서 상품 정보를 자동으�
  
 ---
 
+## 기타 설명
+
+- html 추출명
+   제품명: productCardTitle_product_card_title__eQupA
+   가격: priceTag_number__1QW0R
+   평점: productCardReview_star__7iHNO
+   리뷰개수: productCardReview_text__A9N9N
+
 ## 📌 향후 개선 방향
 
 - 검색 자동화
