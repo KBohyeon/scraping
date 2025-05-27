@@ -116,7 +116,7 @@ Naver Shopping Scraping은 네이버 스토어에서 상품 정보를 자동으�
 
 ## 기타 설명
 
-- html 추출명
+- html 추출명(2025.05.27일 기준)
   
    제품명: productCardTitle_product_card_title__eQupA</br>
    가격: priceTag_number__1QW0R</br>
